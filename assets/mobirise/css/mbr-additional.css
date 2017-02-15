@@ -992,18 +992,41 @@ h6,
 #msg-box5-12 H3 {
   font-family: 'PT Serif', serif;
   font-size: 46px;
-  color: #c0a375;
+  color: #463a2f;
 }
 #msg-box5-12 P {
+  color: #ffffff;
+}
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1g H3 {
   color: #ffffff;
 }
 #features7-13 .card-subtitle {
   color: #bcbcbc;
 }
 #features7-13 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #463a2f;
+  border-color: #463a2f;
 }
 #features7-13 P {
   text-align: left;
+}
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-1d .mbr-section-title,
+#msg-box8-1d p {
+  color: #fff;
+}
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
 }
