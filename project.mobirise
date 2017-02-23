@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 58,
-    "versionPublish": "3.10.5",
+    "uniqCompNum": 59,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -353,6 +353,25 @@
           "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br>",
           "text3": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#463a2f"
+          },
+          "text": "Kevin Fuentes Copyright (c)",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
