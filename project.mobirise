@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -317,6 +317,33 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#463a2f",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"# \" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCMkoucgheFPtIHXTNYL5e8w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -351,7 +378,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br><br>",
           "text3": ""
         },
         {
@@ -359,19 +386,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-1m",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#463a2f"
           },
-          "text": "Kevin Fuentes Copyright (c)",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          }
+          "text": "Kevin Fuentes Copyright (c)"
         }
       ]
     },
