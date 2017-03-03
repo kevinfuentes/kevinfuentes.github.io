@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 60,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 61,
+    "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -247,7 +247,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/starwars4web-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/starwars4web-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Star Wars Concept",
                 "active": false
               },
               {
@@ -257,7 +257,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/space4web-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/space4web-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Star Trek Build&nbsp;",
                 "active": false
               },
               {
@@ -267,7 +267,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers4web-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/avengers4web-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "Avengers Reproduction",
                 "active": false
               },
               {
@@ -277,12 +277,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps4web-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mdcps4web-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "M-DCPS Logo Refresh",
                 "active": true
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -340,15 +340,15 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW US",
+          "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"# \" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCMkoucgheFPtIHXTNYL5e8w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-4",
+          "_name": "contacts4",
+          "_anchor": "contacts4-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -361,25 +361,37 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/soccerball-128x160.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>\n<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Contact Page</li><li>Introduction</li><li>Landing Page</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kfuentes@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br><br>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -404,7 +416,8 @@
     },
     "photoshop.html": {
       "settings": {
-        "order": 3
+        "order": 3,
+        "title": ""
       },
       "components": [
         {
@@ -614,8 +627,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-4",
+          "_name": "contacts4",
+          "_anchor": "contacts4-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -628,27 +641,44 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>\n<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Contact Page</li><li>Introduction</li><li>Landing Page</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kfuentes@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
     "illustrator.html": {
       "settings": {
-        "order": 4
+        "order": 4,
+        "title": ""
       },
       "components": [
         {
@@ -717,7 +747,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -925,7 +955,8 @@
     },
     "premier.html": {
       "settings": {
-        "order": 5
+        "order": 5,
+        "title": ""
       },
       "components": [
         {
@@ -1196,7 +1227,8 @@
     },
     "123D.html": {
       "settings": {
-        "order": 6
+        "order": 6,
+        "title": ""
       },
       "components": [
         {
@@ -1467,7 +1499,8 @@
     },
     "word.html": {
       "settings": {
-        "order": 7
+        "order": 7,
+        "title": ""
       },
       "components": [
         {
@@ -1742,7 +1775,8 @@
     },
     "powerpoint.html": {
       "settings": {
-        "order": 8
+        "order": 8,
+        "title": ""
       },
       "components": [
         {
@@ -2013,7 +2047,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Website Creator Title",
+        "title": "Kevin Fuentes' Tech Website",
         "meta_descr": "Website Creator Description",
         "order": 9
       },
@@ -2084,12 +2118,12 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo4website-1-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo4website-384x128-7.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2172,8 +2206,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-z",
+          "_name": "contacts4",
+          "_anchor": "contacts4-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -2186,25 +2220,37 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/soccerball-128x160.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>\n<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Contact Page</li><li>Introduction</li><li>Landing Page</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kfuentes@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
@@ -2640,8 +2686,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-16",
+          "_name": "contacts4",
+          "_anchor": "contacts4-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -2654,25 +2700,37 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/soccerball-128x160.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>\n<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Contact Page</li><li>Introduction</li><li>Landing Page</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kfuentes@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<strong>Address</strong><br>Zelda Glazer 6-12<br>15015 SW 42 St, Miami, FL 33185<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: kfuentes@miamiartsstudio.com<br>\nPhone: (786)-424-0750<br>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     }
