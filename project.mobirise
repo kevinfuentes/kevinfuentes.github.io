@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 68,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 74,
+    "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -151,66 +151,7 @@
           },
           "title": "Kevin Fuentes",
           "text": "--Check Me Out--",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Click Here For More</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": true
-          },
-          "title": "Video",
-          "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1l",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/fX9ZPCmunxQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Click Here For More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a> "
         },
         {
           "_styles": {
@@ -650,6 +591,26 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             }
@@ -660,7 +621,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1u",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -687,13 +648,13 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "images": [
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -703,7 +664,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -713,7 +674,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -733,7 +694,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -743,7 +704,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -753,7 +714,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -777,41 +738,31 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro9-2000x1432-800x572.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro9-2000x1432.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro10-2000x1432-800x572.jpg",
                 "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro10-2000x1432.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro11-2000x1432-800x572.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro11-2000x1432.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro8-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro8-2000x1432.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#3d8eb9",
-            "filterBgColor": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-1v",
+          "_anchor": "gallery3-21",
           "articleLayout": false,
           "allItem": "All"
         },

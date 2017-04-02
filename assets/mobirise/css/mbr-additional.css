@@ -473,17 +473,6 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-1t .mbr-section-title,
-#header3-1t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1t H3 {
-  color: #ffffff;
-}
-#msg-box8-1l .mbr-section-title,
-#msg-box8-1l p {
-  color: #fff;
-}
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
   text-align: center;
@@ -570,6 +559,10 @@ h6,
 #ext_menu-5 .link[aria-expanded="true"],
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
 }
 #msg-box8-1u .mbr-section-title,
 #msg-box8-1u p {
