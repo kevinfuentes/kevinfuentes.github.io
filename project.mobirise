@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 74,
-    "versionPublish": "3.10.5",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -741,7 +741,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro10-2000x1432-800x572.jpg",
                 "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro10-2000x1432.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -752,6 +752,216 @@
                 "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro8-2000x1432.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro11-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro11-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro13-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro13-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro15-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro15-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro17-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro17-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro19-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro19-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro21-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro21-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro23-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro23-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro25-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro25-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro27-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro27-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro29-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro29-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro32-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro32-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro35-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro35-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro37-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro37-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro39-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro39-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro41-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro41-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro44-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro44-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro47-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro47-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro49-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro49-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro51-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro51-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro53-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro53-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kevin-funtes-repro54-2000x1432-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kevin-funtes-repro54-2000x1432.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
