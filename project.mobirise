@@ -151,7 +151,7 @@
           },
           "title": "Kevin Fuentes",
           "text": "--Check Me Out--",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Click Here For More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Click Here For More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/watch?v=TgI84878xn8\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a> "
         },
         {
           "_styles": {
